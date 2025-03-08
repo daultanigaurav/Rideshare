@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 Demo
-Curious to see how RideShare works? Check it out here: [Live Demo](https://rideshare-platform.vercel.app)
+Curious to see how RideShare works? Check it out here: [Live Demo](https://https://sharemyride.vercel.app/)
 
 ![App Preview](./assets/rideshare-preview.gif)
 
