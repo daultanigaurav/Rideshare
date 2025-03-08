@@ -1,4 +1,4 @@
-# 🚗 RideShare - Your Smart Carpooling Solution
+# 🚗 ShareMyRide - Your Smart Carpooling Solution
 
 **Connecting commuters for safer and more convenient travel with seamless booking experience.**
 
